@@ -1,0 +1,67 @@
+21-Nov-2019 17:02:19.499 WARNING [main] org.apache.tomcat.util.digester.SetPropertiesRule.begin [SetPropertiesRule]{Server/Service/Engine/Host/Valve} Setting property 'resolveHosts' to 'false' did not find a matching property.
+21-Nov-2019 17:02:19.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.32
+21-Nov-2019 17:02:19.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 20 2018 19:50:35 UTC
+21-Nov-2019 17:02:19.506 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.32.0
+21-Nov-2019 17:02:19.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+21-Nov-2019 17:02:19.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.6
+21-Nov-2019 17:02:19.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+21-Nov-2019 17:02:19.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre
+21-Nov-2019 17:02:19.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_131-b11
+21-Nov-2019 17:02:19.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+21-Nov-2019 17:02:19.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/anoopgeorgemuttath/Projects/dotcms_5.2.0/dotserver/tomcat-8.5.32
+21-Nov-2019 17:02:19.507 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/anoopgeorgemuttath/Projects/dotcms_5.2.0/dotserver/tomcat-8.5.32
+21-Nov-2019 17:02:19.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/anoopgeorgemuttath/Projects/dotcms_5.2.0/dotserver/tomcat-8.5.32/conf/logging.properties
+21-Nov-2019 17:02:19.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Nov-2019 17:02:19.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.awt.headless=true
+21-Nov-2019 17:02:19.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xverify:none
+21-Nov-2019 17:02:19.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF8
+21-Nov-2019 17:02:19.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:+DisableExplicitGC
+21-Nov-2019 17:02:19.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:MaxMetaspaceSize=512m
+21-Nov-2019 17:02:19.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx1G
+21-Nov-2019 17:02:19.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:+UseG1GC
+21-Nov-2019 17:02:19.509 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Users/anoopgeorgemuttath/Projects/dotcms_5.2.0/dotserver/tomcat-8.5.32/webapps/ROOT/WEB-INF/lib/byte-buddy-agent-1.6.12.jar
+21-Nov-2019 17:02:19.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.jnu.encoding=UTF-8
+21-Nov-2019 17:02:19.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Ddotserver=dotcms_5.2.0
+21-Nov-2019 17:02:19.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+21-Nov-2019 17:02:19.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+21-Nov-2019 17:02:19.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+21-Nov-2019 17:02:19.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+21-Nov-2019 17:02:19.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/anoopgeorgemuttath/Projects/dotcms_5.2.0/dotserver/tomcat-8.5.32
+21-Nov-2019 17:02:19.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/anoopgeorgemuttath/Projects/dotcms_5.2.0/dotserver/tomcat-8.5.32
+21-Nov-2019 17:02:19.510 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/anoopgeorgemuttath/Projects/dotcms_5.2.0/dotserver/tomcat-8.5.32/temp
+21-Nov-2019 17:02:19.510 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/anoopgeorgemuttath/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+21-Nov-2019 17:02:19.697 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+21-Nov-2019 17:02:19.748 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+21-Nov-2019 17:02:19.754 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 792 ms
+21-Nov-2019 17:02:19.778 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Nov-2019 17:02:19.778 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.32
+21-Nov-2019 17:02:19.786 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/anoopgeorgemuttath/Projects/dotcms_5.2.0/dotserver/tomcat-8.5.32/webapps/ROOT]
+21-Nov-2019 17:02:34.111 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Nov-2019 17:02:37.875 WARNING [localhost-startStop-1] org.glassfish.jersey.internal.Errors.logErrors The following warnings have been detected: WARNING: The (sub)resource method findVersions in com.dotcms.rest.api.v1.content.ContentVersionResource contains empty path annotation.
+WARNING: A HTTP GET method, public javax.ws.rs.core.Response com.dotcms.rest.elasticsearch.ESContentResourcePortlet.search(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.String,java.lang.String,boolean) throws com.dotmarketing.exception.DotDataException,com.dotmarketing.exception.DotSecurityException, should not consume any entity.
+WARNING: A HTTP GET method, public javax.ws.rs.core.Response com.dotcms.rest.api.v1.vtl.VTLResource.get(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,javax.ws.rs.core.UriInfo,java.lang.String,java.util.Map), should not consume any entity.
+WARNING: A HTTP GET method, public javax.ws.rs.core.Response com.dotcms.rest.api.v1.vtl.VTLResource.get(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,javax.ws.rs.core.UriInfo,java.lang.String,java.lang.String,java.util.Map), should not consume any entity.
+WARNING: A HTTP GET method, public javax.ws.rs.core.Response com.dotcms.rest.api.v1.vtl.VTLResource.dynamicGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,javax.ws.rs.core.UriInfo,java.lang.String,java.lang.String), should not consume any entity.
+WARNING: A HTTP GET method, public javax.ws.rs.core.Response com.dotcms.rest.api.v1.vtl.VTLResource.dynamicGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,javax.ws.rs.core.UriInfo,java.lang.String), should not consume any entity.
+WARNING: The (sub)resource method statusCheck in com.dotcms.rest.api.v1.system.monitor.MonitorResource contains empty path annotation.
+WARNING: The (sub)resource method issueApiToken in com.dotcms.rest.api.v1.authentication.ApiTokenResource contains empty path annotation.
+
+21-Nov-2019 17:02:55.570 WARNING [FelixStartLevel] org.apache.tika.config.InitializableProblemHandler$3.handleInitializableProblem JBIG2ImageReader not loaded. jbig2 files will be ignored
+See https://pdfbox.apache.org/2.0/dependencies.html#jai-image-io
+for optional dependencies.
+TIFFImageWriter not loaded. tiff files will not be processed
+See https://pdfbox.apache.org/2.0/dependencies.html#jai-image-io
+for optional dependencies.
+J2KImageReader not loaded. JPEG2000 files will not be processed.
+See https://pdfbox.apache.org/2.0/dependencies.html#jai-image-io
+for optional dependencies.
+
+21-Nov-2019 17:02:55.620 WARNING [FelixStartLevel] org.apache.tika.config.InitializableProblemHandler$3.handleInitializableProblem org.xerial's sqlite-jdbc is not loaded.
+Please provide the jar on your classpath to parse sqlite files.
+See tika-parsers/pom.xml for the correct version.
+21-Nov-2019 17:02:55.711 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/anoopgeorgemuttath/Projects/dotcms_5.2.0/dotserver/tomcat-8.5.32/webapps/ROOT] has finished in [35,924] ms
+21-Nov-2019 17:02:55.715 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Nov-2019 17:02:55.722 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 35966 ms
+21-Nov-2019 18:16:55.222 INFO [url:POST//demo.dotcms.com/api/v1/authentication | lang:1 | ip:0:0:0:0:0:0:0:1 | Admin:false | start:11-21-2019 05:02:58 IST  ref:http://localhost:8080/dotAdmin/] com.dotcms.repackage.org.hibernate.validator.internal.util.Version.<clinit> HV000001: Hibernate Validator 4.3.2.Final
+21-Nov-2019 18:17:01.963 WARNING [url:GET//demo.dotcms.com/api/portlet/embedded-dashboard/ | lang:1 | ip:0:0:0:0:0:0:0:1 | Admin:false | start:11-21-2019 05:03:00 IST  ref:http://localhost:8080/c/portal/layout?p_l_id=34885ddb-3537-4a79-a02c-0550c5087d5c&p_p_id=embedded-dashboard&p_p_action=0&&dm_rlout=1&r=1574340418388&ajax_portlet=true&in_frame=true&frame=detailFrame&container=true&angularCurrentPortlet=embedded-dashboard  ?r=415080780&r=692520096] org.glassfish.jersey.servlet.WebComponent.filterFormParameters A servlet request to the URI http://localhost:8080/api/portlet/embedded-dashboard/?r=415080780&r=692520096 contains form parameters in the request body but the request body has been consumed by the servlet or a servlet filter accessing the request parameters. Only resource methods using @FormParam will work as expected. Resource methods consuming the request body by other means will not work as expected.
+21-Nov-2019 18:17:02.013 WARNING [url:GET//demo.dotcms.com/api/portlet/embedded-dashboard/ | lang:1 | ip:0:0:0:0:0:0:0:1 | Admin:false | start:11-21-2019 05:03:00 IST  ref:http://localhost:8080/c/portal/layout?p_l_id=34885ddb-3537-4a79-a02c-0550c5087d5c&p_p_id=embedded-dashboard&p_p_action=0&&dm_rlout=1&r=1574340418388&ajax_portlet=true&in_frame=true&frame=detailFrame&container=true&angularCurrentPortlet=embedded-dashboard  ?r=415080780&r=692520096] org.glassfish.jersey.servlet.WebComponent.filterFormParameters A servlet request to the URI http://localhost:8080/api/portlet/embedded-dashboard/?r=415080780&r=692520096 contains form parameters in the request body but the request body has been consumed by the servlet or a servlet filter accessing the request parameters. Only resource methods using @FormParam will work as expected. Resource methods consuming the request body by other means will not work as expected.

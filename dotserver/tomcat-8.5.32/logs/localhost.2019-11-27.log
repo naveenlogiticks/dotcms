@@ -1,0 +1,31 @@
+27-Nov-2019 13:15:10.176 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+27-Nov-2019 13:15:11.486 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+27-Nov-2019 13:16:59.246 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: destroy called
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.icns.ICNSImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.tiff.TIFFImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.pnm.PNMImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.svg.SVGImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.psd.PSDImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.pict.PICTImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.bmp.BMPImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.tga.TGAImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.bmp.ICOImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class net.sf.javavp8decoder.imageio.WebPImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.sgi.SGIImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.pcx.PCXImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.jpeg.JPEGImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.dcx.DCXImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.wmf.WMFImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.thumbsdb.ThumbsDBImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.bmp.CURImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.iff.IFFImageReaderSpi
+27-Nov-2019 13:16:59.267 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.luciad.imageio.webp.WebPImageWriterSpi
+27-Nov-2019 13:16:59.268 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.pict.PICTImageWriterSpi
+27-Nov-2019 13:16:59.268 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.tiff.TIFFImageWriterSpi
+27-Nov-2019 13:16:59.268 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.pnm.PNMImageWriterSpi
+27-Nov-2019 13:16:59.268 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.jpeg.JPEGImageWriterSpi
+27-Nov-2019 13:16:59.268 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.pnm.PAMImageWriterSpi
+27-Nov-2019 13:16:59.268 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Unregistered locally installed provider class: class com.twelvemonkeys.imageio.plugins.iff.IFFImageWriterSpi
+27-Nov-2019 13:18:08.936 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+27-Nov-2019 13:18:56.707 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+27-Nov-2019 13:21:28.105 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
